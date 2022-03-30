@@ -15,7 +15,7 @@ It was set up:
 7. Adminer for WordPress;
 8. Redis cache for WordPress;
 
-The domain to use is "jobect.42.fr". The DB has Administrator and common user availability. \
+The domain to use is "jobect.42.fr". The DB has Administrator and common user availability.
 ## Scheme
 ![Scheme](Scheme.png)
 ## How to build
